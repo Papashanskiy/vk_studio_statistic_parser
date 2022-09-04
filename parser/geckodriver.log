@@ -1,0 +1,725 @@
+1661094916074	geckodriver	INFO	Listening on 127.0.0.1:58080
+1661094916580	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58081" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofile4HoGep"
+2022-08-21 18:15:17.251 plugin-container[30675:466657] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:15:17.252 plugin-container[30675:466657] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661094917270	Marionette	INFO	Marionette enabled
+1661094917313	Marionette	INFO	Listening on port 58092
+WebDriver BiDi listening on ws://localhost:58081
+2022-08-21 18:15:17.378 plugin-container[30675:466657] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:15:17.378 plugin-container[30675:466657] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:15:17.379 plugin-container[30675:466660] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:15:17.379 plugin-container[30675:466660] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 58092
+1661094917541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofile4HoGep/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58081/devtools/browser/a0d6ea80-7c96-4d69-a95c-e6c4a7a3964f
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1661095321339	geckodriver	INFO	Listening on 127.0.0.1:58209
+1661095321765	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58210" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilelC0gGC"
+2022-08-21 18:22:02.131 plugin-container[30941:471289] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:22:02.131 plugin-container[30941:471289] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:22:02.139 plugin-container[30941:471289] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:22:02.139 plugin-container[30941:471289] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:22:02.140 plugin-container[30941:471287] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:22:02.140 plugin-container[30941:471287] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661095322156	Marionette	INFO	Marionette enabled
+1661095322198	Marionette	INFO	Listening on port 58218
+WebDriver BiDi listening on ws://localhost:58210
+Read port: 58218
+1661095322557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilelC0gGC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58210/devtools/browser/033f11b1-90c9-4931-8a45-0859b3dfa083
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1661095437197	geckodriver	INFO	Listening on 127.0.0.1:58591
+1661095437619	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58592" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilekDALRu"
+2022-08-21 18:23:58.143 plugin-container[31030:473303] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:23:58.144 plugin-container[31030:473303] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:23:58.146 plugin-container[31030:473303] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:23:58.146 plugin-container[31030:473303] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:23:58.147 plugin-container[31030:473310] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:23:58.147 plugin-container[31030:473310] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661095438165	Marionette	INFO	Marionette enabled
+1661095438197	Marionette	INFO	Listening on port 58605
+WebDriver BiDi listening on ws://localhost:58592
+Read port: 58605
+1661095438522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilekDALRu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58592/devtools/browser/3141dbaa-a3b5-4d8a-8d3d-1baf8e380399
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1661095502636	geckodriver	INFO	Listening on 127.0.0.1:58925
+1661095503032	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58926" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilefIaOAw"
+2022-08-21 18:25:03.529 plugin-container[31091:474871] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:25:03.529 plugin-container[31091:474871] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:25:03.533 plugin-container[31091:474871] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:25:03.533 plugin-container[31091:474871] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:25:03.534 plugin-container[31091:474869] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:25:03.534 plugin-container[31091:474869] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661095503560	Marionette	INFO	Marionette enabled
+1661095503594	Marionette	INFO	Listening on port 58937
+WebDriver BiDi listening on ws://localhost:58926
+Read port: 58937
+1661095503975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilefIaOAw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58926/devtools/browser/95d4c6e3-f666-4f39-bd7d-7f31469b748c
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1661095624580	geckodriver	INFO	Listening on 127.0.0.1:59498
+1661095624982	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59499" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofileFQWZ8F"
+2022-08-21 18:27:05.369 plugin-container[31175:477087] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:27:05.369 plugin-container[31175:477087] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:27:05.373 plugin-container[31175:477087] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:27:05.373 plugin-container[31175:477087] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:27:05.373 plugin-container[31175:477096] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:27:05.373 plugin-container[31175:477096] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661095625396	Marionette	INFO	Marionette enabled
+1661095625435	Marionette	INFO	Listening on port 59511
+WebDriver BiDi listening on ws://localhost:59499
+Read port: 59511
+1661095625942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofileFQWZ8F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59499/devtools/browser/d3376d32-292d-4046-81e5-909ea903f7a7
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1661095714592	geckodriver	INFO	Listening on 127.0.0.1:59929
+1661095715008	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59930" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofileB3EAmR"
+2022-08-21 18:28:35.500 plugin-container[31258:479169] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:28:35.500 plugin-container[31258:479169] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:28:35.507 plugin-container[31258:479169] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:28:35.507 plugin-container[31258:479169] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:28:35.507 plugin-container[31258:479174] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:28:35.507 plugin-container[31258:479174] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661095715521	Marionette	INFO	Marionette enabled
+1661095715559	Marionette	INFO	Listening on port 59941
+WebDriver BiDi listening on ws://localhost:59930
+Read port: 59941
+1661095715979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofileB3EAmR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59930/devtools/browser/dc512b7e-bf86-4bab-a8a0-5ea2c20147b7
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+1661095756836	Marionette	INFO	Stopped listening on port 58937
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1004))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967305/pagestyle22 (resource://devtools/server/actors/page-style.js:1004:5)", "resource://devtools/shared/protocol/Front.js", 376))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1004))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967305/pagestyle22 (resource://devtools/server/actors/page-style.js:1004:5)", "resource://devtools/shared/protocol/Front.js", 376))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+1661096104859	Marionette	INFO	Stopped listening on port 59941
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661096116181	geckodriver	INFO	Listening on 127.0.0.1:61656
+1661096116578	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61657" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilePP4y5P"
+2022-08-21 18:35:17.065 plugin-container[31434:485219] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:35:17.066 plugin-container[31434:485219] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661096117088	Marionette	INFO	Marionette enabled
+2022-08-21 18:35:17.127 plugin-container[31434:485219] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:35:17.127 plugin-container[31434:485219] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661096117127	Marionette	INFO	Listening on port 61669
+2022-08-21 18:35:17.127 plugin-container[31434:485247] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:35:17.127 plugin-container[31434:485247] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:61657
+Read port: 61669
+1661096117466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilePP4y5P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61657/devtools/browser/208cf520-60af-4c51-bd5d-eee36ef37a4a
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1661096205429	geckodriver	INFO	Listening on 127.0.0.1:62096
+1661096205845	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62097" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofileBAVIRS"
+2022-08-21 18:36:46.237 plugin-container[31593:487796] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:36:46.238 plugin-container[31593:487796] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:36:46.241 plugin-container[31593:487796] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:36:46.241 plugin-container[31593:487796] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 18:36:46.241 plugin-container[31593:487804] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 18:36:46.241 plugin-container[31593:487804] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661096206262	Marionette	INFO	Marionette enabled
+1661096206294	Marionette	INFO	Listening on port 62111
+WebDriver BiDi listening on ws://localhost:62097
+Read port: 62111
+1661096206702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofileBAVIRS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62097/devtools/browser/6f798d50-c9a7-4b7d-aa18-19dafbdf789e
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+2022-08-21 15:37:23.717 plugin-container[31633:488704] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 15:37:23.717 plugin-container[31633:488704] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 15:37:23.725 plugin-container[31633:488704] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 15:37:23.725 plugin-container[31633:488704] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 15:37:23.725 plugin-container[31633:488703] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 15:37:23.725 plugin-container[31633:488703] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 144"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:144:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:261:37
+
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1661098195899	geckodriver	INFO	Listening on 127.0.0.1:54151
+1661098196288	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54152" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofileKssVML"
+2022-08-21 19:09:56.810 plugin-container[32542:518262] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:09:56.810 plugin-container[32542:518262] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661098196834	Marionette	INFO	Marionette enabled
+2022-08-21 19:09:56.838 plugin-container[32542:518262] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:09:56.838 plugin-container[32542:518262] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:09:56.838 plugin-container[32542:518296] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:09:56.838 plugin-container[32542:518296] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661098196877	Marionette	INFO	Listening on port 54164
+WebDriver BiDi listening on ws://localhost:54152
+Read port: 54164
+1661098197226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofileKssVML/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54152/devtools/browser/f435a0aa-f495-42eb-8022-78757ff6c9ef
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1661098255413	geckodriver	INFO	Listening on 127.0.0.1:54463
+1661098255823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54464" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofileWSclHm"
+2022-08-21 19:10:56.189 plugin-container[32628:519715] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:10:56.189 plugin-container[32628:519715] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:10:56.192 plugin-container[32628:519715] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:10:56.192 plugin-container[32628:519715] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:10:56.193 plugin-container[32628:519720] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:10:56.193 plugin-container[32628:519720] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661098256217	Marionette	INFO	Marionette enabled
+1661098256255	Marionette	INFO	Listening on port 54477
+WebDriver BiDi listening on ws://localhost:54464
+Read port: 54477
+1661098256654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofileWSclHm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54464/devtools/browser/acfed980-e5e6-40db-bc7e-c319c593ec9f
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1661098330297	geckodriver	INFO	Listening on 127.0.0.1:54827
+1661098330701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54828" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilekUaVaD"
+2022-08-21 19:12:11.178 plugin-container[32670:521544] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:12:11.178 plugin-container[32670:521544] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:12:11.182 plugin-container[32670:521544] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:12:11.182 plugin-container[32670:521544] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:12:11.182 plugin-container[32670:521549] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:12:11.182 plugin-container[32670:521549] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661098331203	Marionette	INFO	Marionette enabled
+1661098331234	Marionette	INFO	Listening on port 54840
+WebDriver BiDi listening on ws://localhost:54828
+Read port: 54840
+1661098331462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilekUaVaD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54828/devtools/browser/9b464a69-c10f-4b2d-be29-6fc3a1377be9
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+2022-08-21 16:12:26.783 plugin-container[32691:522027] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 16:12:26.784 plugin-container[32691:522027] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 16:12:26.789 plugin-container[32691:522027] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 16:12:26.789 plugin-container[32691:522027] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 16:12:26.789 plugin-container[32691:522025] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 16:12:26.789 plugin-container[32691:522025] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1661098375689	geckodriver	INFO	Listening on 127.0.0.1:55114
+1661098376098	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55115" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofileUz8yoq"
+2022-08-21 19:12:56.596 plugin-container[32725:522957] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:12:56.596 plugin-container[32725:522957] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:12:56.601 plugin-container[32725:522957] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:12:56.601 plugin-container[32725:522957] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:12:56.601 plugin-container[32725:522958] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:12:56.601 plugin-container[32725:522958] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661098376619	Marionette	INFO	Marionette enabled
+1661098376655	Marionette	INFO	Listening on port 55127
+WebDriver BiDi listening on ws://localhost:55115
+Read port: 55127
+1661098377001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofileUz8yoq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55115/devtools/browser/506ba5fe-ee2d-4875-b20e-7a2002651900
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661098391115	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://vk.com/al_feed.php?t2fs=bab48c8e9190a5f3ea_3, line 2717: SecurityError: Permission denied to access property "handlePageParams" on cross-origin object
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1661098430803	geckodriver	INFO	Listening on 127.0.0.1:55423
+1661098431209	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55424" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilezt18hK"
+2022-08-21 19:13:51.677 plugin-container[32768:524215] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:13:51.678 plugin-container[32768:524215] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:13:51.681 plugin-container[32768:524215] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:13:51.681 plugin-container[32768:524215] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:13:51.682 plugin-container[32768:524213] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:13:51.682 plugin-container[32768:524213] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661098431702	Marionette	INFO	Marionette enabled
+1661098431731	Marionette	INFO	Listening on port 55436
+WebDriver BiDi listening on ws://localhost:55424
+Read port: 55436
+1661098432109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilezt18hK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55424/devtools/browser/6f9c90aa-36f5-4e2d-a88e-3f41af9c3271
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661098446161	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://vk.com/al_feed.php, line 3547: SecurityError: Permission denied to access property "handlePageParams" on cross-origin object
+1661098476431	geckodriver	INFO	Listening on 127.0.0.1:55702
+1661098476821	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55703" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofile3UVlv0"
+2022-08-21 19:14:37.382 plugin-container[32808:525225] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:14:37.383 plugin-container[32808:525225] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:14:37.390 plugin-container[32808:525225] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:14:37.390 plugin-container[32808:525225] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:14:37.390 plugin-container[32808:525239] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:14:37.390 plugin-container[32808:525239] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661098477417	Marionette	INFO	Marionette enabled
+1661098477467	Marionette	INFO	Listening on port 55715
+WebDriver BiDi listening on ws://localhost:55703
+Read port: 55715
+1661098477771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofile3UVlv0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55703/devtools/browser/21f9ae09-200a-4dff-873e-ccbe9aacfa13
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661098492380	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://vk.com/al_feed.php, line 2780: SecurityError: Permission denied to access property "handlePageParams" on cross-origin object
+1661098532287	geckodriver	INFO	Listening on 127.0.0.1:56027
+1661098532679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56028" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilebXGQTD"
+1661098533270	Marionette	INFO	Marionette enabled
+2022-08-21 19:15:33.297 plugin-container[32854:526443] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:15:33.297 plugin-container[32854:526443] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:15:33.313 plugin-container[32854:526443] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:15:33.313 plugin-container[32854:526443] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 19:15:33.314 plugin-container[32854:526470] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 19:15:33.314 plugin-container[32854:526470] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1661098533316	Marionette	INFO	Listening on port 56040
+WebDriver BiDi listening on ws://localhost:56028
+Read port: 56040
+1661098533620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilebXGQTD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56028/devtools/browser/ff2df5bf-e8df-4015-8114-eca930d0b8d5
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st1-21.vk.com/dist/web/grip.d2db1cda66e00d7c19b6.js?8d74051c89a0fb72875c9605bac7ea6e, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://id.vk.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661098548063	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://vk.com/al_feed.php, line 2797: SecurityError: Permission denied to access property "handlePageParams" on cross-origin object
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1661099897740	Marionette	INFO	Stopped listening on port 55715
+1661099907483	Marionette	INFO	Stopped listening on port 55436
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.warn: ({})
+Handler function threw an exception: Error: Got notified about channel 70562017707796 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 70562017707796 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+2022-08-21 17:11:52.164 plugin-container[34514:575651] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 17:11:52.164 plugin-container[34514:575651] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 17:11:52.175 plugin-container[34514:575651] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 17:11:52.175 plugin-container[34514:575651] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-21 17:11:52.176 plugin-container[34514:575650] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-21 17:11:52.176 plugin-container[34514:575650] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://vk.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967315"
+console.error: "Unable to find target with innerWindowId:4294967316"
+console.error: "Unable to find target with innerWindowId:4294967317"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilebXGQTD/bookmarkbackups/bookmarks-2022-08-24_11_7jPE2UcdC9WhYNB5CzNLJg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/5d/xm8cj93d261dql7vhfxgk478nqpj1k/T/rust_mozprofilebXGQTD/bookmarkbackups/bookmarks-2022-08-28_11_7jPE2UcdC9WhYNB5CzNLJg==.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+1661795606330	Marionette	INFO	Stopped listening on port 56040
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
